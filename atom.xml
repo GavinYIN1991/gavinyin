@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GavinYIN1991.github.io</id>
     <title>灯火阑珊处</title>
-    <updated>2019-06-24T12:15:58.524Z</updated>
+    <updated>2019-06-24T12:24:49.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GavinYIN1991.github.io"/>
     <link rel="self" href="https://GavinYIN1991.github.io/atom.xml"/>
@@ -183,12 +183,13 @@
         <summary type="html"><![CDATA[<blockquote>
 <p>芝麻信用元素表(DAS)产品已经不对外输出了，目前这个应该是全网最清晰的版本了。</p>
 </blockquote>
+<p>芝麻信用元素表是可配置使用的数据元素服务（&quot;元素&quot;指代&quot;变量&quot;），从五大维度抽象用户信息，可用于各类模型和策略，方便机构更有效的从信贷审核、贷后管理方面评估用户的信用程度。详细的DAS元素名及其定义请参见《附表：芝麻信用元素表(DAS)列表及含义》</p>
 ]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>芝麻信用元素表(DAS)产品已经不对外输出了，目前这个应该是全网最清晰的版本了。</p>
 </blockquote>
-<!-- more -->
 <p>芝麻信用元素表是可配置使用的数据元素服务（&quot;元素&quot;指代&quot;变量&quot;），从五大维度抽象用户信息，可用于各类模型和策略，方便机构更有效的从信贷审核、贷后管理方面评估用户的信用程度。详细的DAS元素名及其定义请参见《附表：芝麻信用元素表(DAS)列表及含义》</p>
+<!-- more -->
 <h2 id="产品功能">产品功能</h2>
 <p>（1）产品接口固定，底层元素可无限扩展：商户不需要因为芝麻数据元素的增多而更改产品接口，只需在协议层面重新勾选新的元素后，DAS产品即可在现有的产品接口上将新的元素推送到商户端；</p>
 <p>（2）元素输出分档：根据该元素在芝麻用户大盘上的分布和区分能力分档，可配合芝麻信用评分、IVS、行业关注名单形成全面的组合信审策略。这一点可以满足商户特别是金融类商户 对客户画像和特征刻画需求。</p>
