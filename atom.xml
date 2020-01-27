@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://GavinYIN1991.github.io</id>
+    <id>http://yinshihao.com/</id>
     <title>灯火阑珊处</title>
-    <updated>2020-01-27T04:42:00.239Z</updated>
+    <updated>2020-01-27T05:03:16.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://GavinYIN1991.github.io"/>
-    <link rel="self" href="https://GavinYIN1991.github.io/atom.xml"/>
+    <link rel="alternate" href="http://yinshihao.com/"/>
+    <link rel="self" href="http://yinshihao.com/atom.xml"/>
     <subtitle>须知风尘之中，多是性情中人</subtitle>
-    <logo>https://GavinYIN1991.github.io/images/avatar.png</logo>
-    <icon>https://GavinYIN1991.github.io/favicon.ico</icon>
+    <logo>http://yinshihao.com/images/avatar.png</logo>
+    <icon>http://yinshihao.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 灯火阑珊处</rights>
     <entry>
         <title type="html"><![CDATA[Hertz 一生黑]]></title>
-        <id>https://GavinYIN1991.github.io/post/hertz</id>
-        <link href="https://GavinYIN1991.github.io/post/hertz">
+        <id>http://yinshihao.com/post/hertz</id>
+        <link href="http://yinshihao.com/post/hertz">
         </link>
         <updated>2019-08-12T02:20:05.000Z</updated>
         <summary type="html"><![CDATA[<p>法国之行结束后，没想到收到了几张超速罚单，其中有两张在荷兰的巨额罚单，Hertz在并未告知本人的情况下直接从绑定信用卡扣除了该部分罚款。由此和Hertz展开了一场数轮来回的沟(si)通(bi)，但是最后以失败告终。</p>
@@ -22,7 +22,7 @@
 <!-- more -->
 <h1 id="第一轮沟通">第一轮沟通</h1>
 <p>7月14日一早醒来，发现招行信用卡提醒有两笔消费，一看商户是Hertz，心想万幸不是盗刷。加上之前已经有被收取了六笔 $19.99 行政手续费的经验，所以就轻车熟路跟Hertz中国客服电话沟通，然后让我将相关凭证通过邮件方式通过给Hertz客服。</p>
-<figure data-type="image" tabindex="1"><img src="https://GavinYIN1991.github.io/post-images/1580092402226.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://yinshihao.com//post-images/1580092402226.jpg" alt="" loading="lazy"></figure>
 <p>过了两个工作日，Hertz客服回信：</p>
 <blockquote>
 <p>客户您好，<br>
@@ -38,7 +38,7 @@
 </blockquote>
 <p>邮件附件里面附上了所有收费的INVOICE DUPLICATE。</p>
 <h1 id="第二轮沟通">第二轮沟通</h1>
-<figure data-type="image" tabindex="2"><img src="https://GavinYIN1991.github.io/post-images/1580093065677.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://yinshihao.com//post-images/1580093065677.png" alt="" loading="lazy"></figure>
 <p>根据Hertz提供的收据信息，我提出了两点疑惑：</p>
 <blockquote>
 <p>1.目前为止我暂未收到罚单，所以不清楚具体的违章信息，请问是否能够跟法国Hertz的同事沟通一下，获取罚单信息。既然你们能够扣款，说明你们是从法国当地的交通部门获取到了相关信息的。<br>
@@ -52,8 +52,8 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 有关Hertz无法代缴的罚单，Hertz会直接提供租车人的信息给交通管理部门，会由他们邮寄给您纸质的罚单.这个问题我们已跟法国当地确认过，Hertz 无法帮助到您，请您谅解.<br>
 附件2是为您代缴的两笔荷兰的超速罚单.请查阅.</p>
 </blockquote>
-<figure data-type="image" tabindex="3"><img src="https://GavinYIN1991.github.io/post-images/1580093342838.png" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://GavinYIN1991.github.io/post-images/1580093519830.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="http://yinshihao.com//post-images/1580093342838.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://yinshihao.com//post-images/1580093519830.png" alt="" loading="lazy"></figure>
 <h1 id="第三轮沟通">第三轮沟通</h1>
 <p>经过两轮沟通后，终于拿到了我想要的罚单信息，然后根据网上的攻略，通过荷兰官方电话与工作人员取得了联系，经过长达半个小时越洋电话的沟通，工作人员非常同情我的遭遇，但是因为罚款已经缴纳了，他也做不了什么。</p>
 <p>无奈之下，继续开启了与Hertz 的沟通。</p>
@@ -141,8 +141,8 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
     </entry>
     <entry>
         <title type="html"><![CDATA[六月法兰西见闻]]></title>
-        <id>https://GavinYIN1991.github.io/post/ou-zhou-you-zhi-fa-guo</id>
-        <link href="https://GavinYIN1991.github.io/post/ou-zhou-you-zhi-fa-guo">
+        <id>http://yinshihao.com/post/ou-zhou-you-zhi-fa-guo</id>
+        <link href="http://yinshihao.com/post/ou-zhou-you-zhi-fa-guo">
         </link>
         <updated>2019-06-11T15:23:13.000Z</updated>
         <summary type="html"><![CDATA[<p>心心念的法国之行告一段落，来一篇流水账记录一下吧。</p>
@@ -158,19 +158,19 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 <p>因为是自由行，考虑到我们两人的自由懒散以及实际旅途中的漫无目的闲逛之后，交通工具除了汽车没有更适合的了，用<strong>招行经典白</strong>和<strong>建行白金卡</strong>的优惠码比对了 Avis 和 Hertz 之后，果断选择了同款车型价格最优的 <strong>Hertz</strong> （请Hertz市场人员看到此文后联系我给赞助费）。</p>
 <p>接下来就是住宿了，出国游一般就是连锁酒店或者 <strong>Airbnb</strong>，因为考虑到在法国的安全因素，所以这次并没有首选Airbnb，结合路线各城市的情况，综合比对之后，分别在 <strong>Marriott</strong> 和 <strong>IHG</strong> 上面订了酒店。（当然其实最开始是想全程 Marriott，但是有几天的价格实在是有点超出预算）</p>
 <p>出发前一天，用<strong>光大航旅纵横白</strong>的每年两次50公里内机场免费接送权益在 <strong>阳光惠生活App</strong> 上预好送机时间，所幸家离浦东机场刚好50公里，所以这次机场往返并没有出一分钱。（光大信用卡办卡小哥你懂的）</p>
-<figure data-type="image" tabindex="1"><img src="https://GavinYIN1991.github.io/post-images/1560347676724.jpg" alt="GL8" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://yinshihao.com//post-images/1560347676724.jpg" alt="GL8" loading="lazy"></figure>
 <h1 id="埃菲尔铁塔">埃菲尔铁塔</h1>
-<figure data-type="image" tabindex="2"><img src="https://GavinYIN1991.github.io/post-images/1560347831080.jpg" alt="飞行路线图" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://yinshihao.com//post-images/1560347831080.jpg" alt="飞行路线图" loading="lazy"></figure>
 <p>这次国际航班从阿联酋的阿布扎比转机。</p>
 <p>到了巴黎后，是当天下午2:30，过了海关拿了行李之后直奔Hertz取车。<br>
 但是不知道是啥原因，当天Hertz电脑系统崩溃了，只能人工填表录单。还好提前打印了预定成功邮件和驾照翻译复印件，和法国小哥用蹩脚的英语交流顺畅，拿到一辆红色的雷诺SUV capture。</p>
 <p>在法国机场高速往酒店的路上，发现法国大部分都是小型车，很少见到中大型车，直到进了巴黎市区之后，才发现道路特别窄，进了停车场总算明白还好这次没有租个中大型车，不然停车真难。</p>
 <p>花开两朵，各表一枝。接下来就是进入正题的旅游了，首站打卡 埃菲尔铁塔。</p>
-<figure data-type="image" tabindex="3"><img src="https://GavinYIN1991.github.io/post-images/1560348063260.jpg" alt="埃菲尔铁塔" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="http://yinshihao.com//post-images/1560348063260.jpg" alt="埃菲尔铁塔" loading="lazy"></figure>
 <p>按照攻略推荐，夏约宫的大露台是最佳观赏地点，到了之后起初还未看到铁塔，当我们走到宫殿正中的广场是，忽如桃花源记中的感觉，豁然开朗，埃菲尔铁塔近在眼前。</p>
-<figure data-type="image" tabindex="4"><img src="https://GavinYIN1991.github.io/post-images/1560349000978.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://yinshihao.com//post-images/1560349000978.png" alt="" loading="lazy"></figure>
 <p>沿着夏约宫一路往下走到了战神广场，路上发现了法国当地的特色代步工具 共享脚踏车 <strong>bird</strong>。虽然已经是下午五六点了，但是太阳依然高照。于是扫码注册体验了一把 bird，整个 App 界面风格感觉跟Uber是一家的一样。绑定信用卡预付充值，解锁即可使用。停车之后，可以锁定或者归还，但是GPS定位的禁停区域是不能归还的，App会提示你必须移出此区域才可以归还。</p>
-<figure data-type="image" tabindex="5"><img src="https://GavinYIN1991.github.io/post-images/1560349276333.jpg" alt="bird" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="http://yinshihao.com//post-images/1560349276333.jpg" alt="bird" loading="lazy"></figure>
 <h1 id="里昂">里昂</h1>
 <p>第二天按照行程规划，赶往里昂。</p>
 <p>高速路上，起初老老实实按照限速牌的标准开车，但是发现左侧经常有车辆超过我，并换道到我前方保持一定的安全距离，并逐渐与我甩开了距离。开了一段时间后，发现基本上大部分车都是如此，知道自己的车速比较慢了，同时对法国的高速路况也有了一定的了解。于是放大胆子加油跟上前车的节奏，很有意思的情况出现了，每次当我跟前车车距保持过近的时候，只要条件允许的情况下，他都会主动让道道右边车道。内心不得不佩服欧洲人的开车素养。相比起国内来说，此处省略三百字。</p>
@@ -183,14 +183,14 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 </ol>
 <p>途中在休息站加油休息时，因为第一次加油不熟悉法国的加油程序，一脸懵逼捉急的时候，旁边法国大叔主动上前问我们是否遇到了困难，并指导了如何加油的流程。这让我如沐春风感受到了法国人的热情。</p>
 <p>顺利到里昂后，已经接近两点了，这时候想找个地方吃饭休息，发现大部分饭店已经停止营业了。所以请注意在法国吃饭一定要按照饭点找好地方，不然的结果就是找不到吃的了。这让我切身体验到了法国人的懒惰。</p>
-<figure data-type="image" tabindex="6"><img src="https://GavinYIN1991.github.io/post-images/1560349633273.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="http://yinshihao.com//post-images/1560349633273.jpg" alt="" loading="lazy"></figure>
 <p>到了里昂城区内，逛完比较有名的几个教堂和景点，此处不表。</p>
 <h1 id="追寻梵高">追寻梵高</h1>
 <p>第三天，前往马赛。</p>
 <p>路上经过阿尔勒，梵高曾经待过的地方。</p>
-<figure data-type="image" tabindex="7"><img src="https://GavinYIN1991.github.io/post-images/1560349713618.jpg" alt="梵高的咖啡馆" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="http://yinshihao.com//post-images/1560349713618.jpg" alt="梵高的咖啡馆" loading="lazy"></figure>
 <p>梵高的咖啡馆还是原来的咖啡馆，只是不管怎么拍也还原不出大师当时的场景，朋友圈有人点评说，应该晚上来。</p>
-<figure data-type="image" tabindex="8"><img src="https://GavinYIN1991.github.io/post-images/1560349687823.jpg" alt="梵高的疗养院" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="http://yinshihao.com//post-images/1560349687823.jpg" alt="梵高的疗养院" loading="lazy"></figure>
 <p>1888年2月梵高因精神失常，发生了著名的「割耳事件」，被送到了这家医院接受治疗。1889年4月梵高绘制了《阿尔勒医院中的花园》（Le Jardin de la Maison de Santé a Arles，The Courtyard of the Hospital at Arles）</p>
 <p>后来因为梵高成名后，这家养老院不堪游客的打扰，已经迁往别处。</p>
 <p>探索完梵高，继续前往马赛。比较意外和惊喜的时，沿着海岸线进入马赛时，看到了一个类似于好莱坞的牌子在半山腰上面，写着<strong>Marseille</strong>。</p>
@@ -199,19 +199,19 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 <h1 id="错过的薰衣草">错过的薰衣草</h1>
 <p>第四天，一早起来还未再游览一下马赛城区，就直奔普罗旺斯，想看漫山遍野的薰衣草。</p>
 <p>结果驾车经过了那篇经典的斜坡之后，并没有看到紫色盛开的薰衣草，在当地的薰衣草炼油厂遇到了一个中国实习生，告诉我们来早了三周。</p>
-<figure data-type="image" tabindex="9"><img src="https://GavinYIN1991.github.io/post-images/1560438238186.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="http://yinshihao.com//post-images/1560438238186.jpg" alt="" loading="lazy"></figure>
 <p>无奈。</p>
 <h1 id="第戎">第戎</h1>
 <p>薰衣草没有看到，遗憾地继续前行开往下一站第戎。</p>
 <p>途径阿尔卑斯山脉，已经可以远眺到阿尔卑斯山顶，这是下次的必经之地。</p>
 <p>到了第戎已经是下午六七点钟，也许是本来对第戎的期待并不多，结果意外发现第戎的建筑太美了，现代交通和几百年前建筑的视觉冲击力，感觉自己穿越了一样。</p>
-<figure data-type="image" tabindex="10"><img src="https://GavinYIN1991.github.io/post-images/1560349878216.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="http://yinshihao.com//post-images/1560349878216.jpg" alt="" loading="lazy"></figure>
 <p>按照攻略推荐，半小时内速成版逛完了第戎的地标和景点。</p>
 <h1 id="荷兰">荷兰</h1>
 <p>第四天，途径卢森堡、比利时到达荷兰Eindhoven。</p>
 <p>与两年多未见的师兄见面，「他乡遇故知」，心情异常激动，晚上两人聊到十一点半才作别休息。次日，提议来了荷兰必须得去趟阿姆斯特丹，车程一个小时，所以临时决定开车前往。</p>
 <p>突然发现欧洲真的很小，特别是申根国家之间，有辆车就随时出国了。</p>
-<figure data-type="image" tabindex="11"><img src="https://GavinYIN1991.github.io/post-images/1560349736345.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="http://yinshihao.com//post-images/1560349736345.jpg" alt="" loading="lazy"></figure>
 <p>阿姆斯特丹不得不去的，当然非梵高博物馆莫属。当然，通过博物馆专业的讲解，对梵高又有了新的认识，当时脑海里面只想起了杜甫的一句诗。</p>
 <blockquote>
 <p>百年歌自苦，未见有知音。</p>
@@ -221,13 +221,13 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 <h1 id="再回巴黎">再回巴黎</h1>
 <p>最终，绕着法国南部、卢森堡、比利时、荷兰一圈，又回到了法国巴黎。</p>
 <p>剩下两天，就留给了卢浮宫、蓬皮杜艺术中心、凡尔赛宫、巴黎老佛爷店。</p>
-<figure data-type="image" tabindex="12"><img src="https://GavinYIN1991.github.io/post-images/1561378159367.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="12"><img src="http://yinshihao.com//post-images/1561378159367.jpg" alt="" loading="lazy"></figure>
 <p>在Louvre Museum前，看着贝聿铭先生的作品，想到最近某午餐事件，「用极致理性追求真理的科学家，用极致感性追求美的艺术家，以及用大爱对世界或民族做出的贡献的英雄，才能永垂不朽」</p>
-<figure data-type="image" tabindex="13"><img src="https://GavinYIN1991.github.io/post-images/1560349752512.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="http://yinshihao.com//post-images/1560349752512.jpg" alt="" loading="lazy"></figure>
 <p>不得不提的The Centre Pompidou ，想起了大学时期学过的艺术史里面，算是设计专业出身的我来朝圣了。可惜与设计渐行渐远了，现在满脑子想的是如何赚钱，已经没有当年的心境再来慢慢鉴赏艺术作品了。</p>
-<figure data-type="image" tabindex="14"><img src="https://GavinYIN1991.github.io/post-images/1560349789866.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="14"><img src="http://yinshihao.com//post-images/1560349789866.jpg" alt="" loading="lazy"></figure>
 <p>在Palace of Versailles，匆匆一瞥感受了一下欧洲皇家园林和宫殿。</p>
-<figure data-type="image" tabindex="15"><img src="https://GavinYIN1991.github.io/post-images/1560349821331.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="15"><img src="http://yinshihao.com//post-images/1560349821331.jpg" alt="" loading="lazy"></figure>
 <h1 id="尾记">尾记</h1>
 <p>本来以为一段自驾法兰西的旅途顺利完结。</p>
 <p>结果哪想到回国之后，收到六张罚单通知。</p>
@@ -235,8 +235,8 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
     </entry>
     <entry>
         <title type="html"><![CDATA[变量名常见缩写列表]]></title>
-        <id>https://GavinYIN1991.github.io/post/bian-liang-ming-chang-jian-suo-xie-lie-biao</id>
-        <link href="https://GavinYIN1991.github.io/post/bian-liang-ming-chang-jian-suo-xie-lie-biao">
+        <id>http://yinshihao.com/post/bian-liang-ming-chang-jian-suo-xie-lie-biao</id>
+        <link href="http://yinshihao.com/post/bian-liang-ming-chang-jian-suo-xie-lie-biao">
         </link>
         <updated>2019-05-28T15:37:41.000Z</updated>
         <summary type="html"><![CDATA[<p>在开发项目过程中，命名的规范是否重要，直接关系到整个项目可维护性和代码可读性，做好单词的缩写规范是命名规范的重点之一</p>
@@ -5818,8 +5818,8 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
     </entry>
     <entry>
         <title type="html"><![CDATA[芝麻信用元素表(DAS)列表及含义]]></title>
-        <id>https://GavinYIN1991.github.io/post/zhi-ma-xin-yong-yuan-su-biao-daslie-biao-ji-han-yi</id>
-        <link href="https://GavinYIN1991.github.io/post/zhi-ma-xin-yong-yuan-su-biao-daslie-biao-ji-han-yi">
+        <id>http://yinshihao.com/post/zhi-ma-xin-yong-yuan-su-biao-daslie-biao-ji-han-yi</id>
+        <link href="http://yinshihao.com/post/zhi-ma-xin-yong-yuan-su-biao-daslie-biao-ji-han-yi">
         </link>
         <updated>2019-05-24T07:43:13.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -10360,8 +10360,8 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
     </entry>
     <entry>
         <title type="html"><![CDATA[国家命运与个人命运]]></title>
-        <id>https://GavinYIN1991.github.io/post/lesslessguo-jia-ming-yun-yu-ge-ren-ming-yun-greatergreater</id>
-        <link href="https://GavinYIN1991.github.io/post/lesslessguo-jia-ming-yun-yu-ge-ren-ming-yun-greatergreater">
+        <id>http://yinshihao.com/post/lesslessguo-jia-ming-yun-yu-ge-ren-ming-yun-greatergreater</id>
+        <link href="http://yinshihao.com/post/lesslessguo-jia-ming-yun-yu-ge-ren-ming-yun-greatergreater">
         </link>
         <updated>2019-05-17T07:29:25.000Z</updated>
         <summary type="html"><![CDATA[<p>吉林大学经济学院、金融学院院长李晓教授在2018年毕业典礼上的讲话</p>
@@ -10472,8 +10472,8 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
     </entry>
     <entry>
         <title type="html"><![CDATA[朝花夕拾]]></title>
-        <id>https://GavinYIN1991.github.io/post/zhao-hua-xi-shi</id>
-        <link href="https://GavinYIN1991.github.io/post/zhao-hua-xi-shi">
+        <id>http://yinshihao.com/post/zhao-hua-xi-shi</id>
+        <link href="http://yinshihao.com/post/zhao-hua-xi-shi">
         </link>
         <updated>2019-05-17T05:37:41.000Z</updated>
         <summary type="html"><![CDATA[<p>14年写博客，直到17年断更，后来因为工作太忙无心打理，搭建WordPress的服务器也被销毁了。<br>
@@ -10504,8 +10504,8 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
     </entry>
     <entry>
         <title type="html"><![CDATA[关于我]]></title>
-        <id>https://GavinYIN1991.github.io/post/guan-yu-wo</id>
-        <link href="https://GavinYIN1991.github.io/post/guan-yu-wo">
+        <id>http://yinshihao.com/post/guan-yu-wo</id>
+        <link href="http://yinshihao.com/post/guan-yu-wo">
         </link>
         <updated>2019-05-16T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<h2 id="主业">主业</h2>
@@ -10527,15 +10527,15 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 <li>音乐：网易云 Lv.9 用户 ，现主力虾米 累计播放 11000+</li>
 <li>旅游：探索世界中</li>
 </ul>
-<figure data-type="image" tabindex="1"><img src="https://GavinYIN1991.github.io/post-images/1558071395699.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://yinshihao.com//post-images/1558071395699.jpg" alt="" loading="lazy"></figure>
 <h2 id="地点">地点</h2>
 <p>目前暂居上海</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[浅析拿下招行经典白的套路]]></title>
-        <id>https://GavinYIN1991.github.io/post/zhao-xing-jing-dian-bai</id>
-        <link href="https://GavinYIN1991.github.io/post/zhao-xing-jing-dian-bai">
+        <id>http://yinshihao.com/post/zhao-xing-jing-dian-bai</id>
+        <link href="http://yinshihao.com/post/zhao-xing-jing-dian-bai">
         </link>
         <updated>2019-04-09T11:48:58.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="年轻人的第一张信用卡招行信用卡">年轻人的第一张信用卡：招行信用卡</h1>
@@ -10574,16 +10574,16 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 行为评分卡 (Behavior Score Card)：对贷后可以收集到的用户信息进行评分的规则。<br>
 风险定价(Risk-based Pricing)：量化风险管理的核心之一，可以根据用户人群、模型决策风险、外部征信数据等条件，给用户授予额度和费率。<br>
 授信额度：根据客户信息推断收入水平，通过资产负债比来控制授信。</p>
-<figure data-type="image" tabindex="1"><img src="https://GavinYIN1991.github.io/post-images/1561118020990.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://yinshihao.com//post-images/1561118020990.jpg" alt="" loading="lazy"></figure>
 <p>知道这些风控术语之后，接下来进入『一本道』时间：</p>
 <blockquote>
 <p>客户视角（C位小明）：当小明申请招商银行信用卡时，会要求小明填写很多基本信息，包括姓名、身份证号码、手机号、家庭信息、工作信息、紧急联系人等等，同时明确告知小明同学授权招商银行查询的人行征信报告以及其他相关征信数据（银行不方便明说的），大概过了几个工作日之后，小明同学就能从掌x生活APP或者微信公众号等渠道查询自己的申请审批结果了。审批通过以后几个工作日小明同学就能收到招行的信用卡，然后开卡激活之后就可以正常使用了。一段时间后，由于小明同学的优异表现，获得提额机会。</p>
 <p>银行视角（信贷审批专员）：信贷审批系统里面今天又多了N条申请案件，其中有一条是小明的信用卡申请信息。小明同学的案件会由决策引擎根据进件渠道（网上申请、网点进件、上门办理、特邀客户等）、进件方式判断走相应的风险策略规则。如果小明资质非常好，自动化机审就直接通过发卡；如果小明之前有不良记录或者不满足申卡的资质要求等情况，机审就会拒绝；如果小明资质一般，可能会进入人工审核阶段，需要客服电话核实相关信息，再确定是否发卡。通过之后，再根据小明同学的『核定月收入』与综合评分等进行授信了。然后制卡，邮寄，网点激活或者在线激活后，3个月或者6个月以后，银行再根据小明的消费数据、还款数据评估是否满足提额条件。</p>
 </blockquote>
 <p>当然实际上每家银行信用卡中心的业务流程和风险策略、风险偏好都不一样，在这里只是大致推测了一个流程。</p>
-<figure data-type="image" tabindex="2"><img src="https://GavinYIN1991.github.io/post-images/1561118002046.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://yinshihao.com//post-images/1561118002046.png" alt="" loading="lazy"></figure>
 <p>从芝麻信用银行解决方案的流程图里面，更详细地描述了各个环节里面银行信用卡风控处理步骤：</p>
-<figure data-type="image" tabindex="3"><img src="https://GavinYIN1991.github.io/post-images/1561341933994.png" alt="芝麻信用银行解决方案" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="http://yinshihao.com//post-images/1561341933994.png" alt="芝麻信用银行解决方案" loading="lazy"></figure>
 <p>了解整个流程之后，我们就会发现一些情况其实是可以从风控的角度上来解释的：</p>
 <ol>
 <li>很多资深的老玩家都知道，下卡率里面，信用卡专员上门办理&gt;网点柜台填表申请&gt;线上申请。实际上就是不同的进件渠道对应的风险规则不一样，风险较低的渠道，相应的风险规则就会在风险可控的前提下放松一点。</li>
@@ -10593,7 +10593,7 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 <li>每家信用卡的下卡率和起始额度不一样，跟各家银行的风险偏好和策略有关系。比如常见的四大行，俗称『砖行』，更偏重于行内资产、流水情况。而很多股份制银行、地方性银行为了在激烈的市场竞争中获得消费者客户的青睐，会更开放一点，比如招行、浦发、中信、华夏这类银行。</li>
 </ol>
 <p>言归正传，各家银行的风控实力不同，与之相应的授信策略和风险态度思路也不尽相同，为了简化问题方便大家理解，我将授信模型简化了一下如下表所示（专业人士请勿喷）</p>
-<figure data-type="image" tabindex="4"><img src="https://GavinYIN1991.github.io/post-images/1561117972874.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://yinshihao.com//post-images/1561117972874.png" alt="" loading="lazy"></figure>
 <p>大家可以看到，当你评分越高的时候，能够获得的授信额度也就越高，如果开卡额度低不要灰心，可以通过正常消费提额，而招行算是业内良心，三个月就有一次可提额的机会。</p>
 <h1 id="临时额度坐标系提额">「临时额度坐标系」提额</h1>
 <p>在说此方案之前，先声明一下，此方法只适用于 100K 以内的提额（因为作者额度目前没有超过 100k）。</p>
@@ -10609,8 +10609,8 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
     </entry>
     <entry>
         <title type="html"><![CDATA[写在「现金贷」行业动荡中]]></title>
-        <id>https://GavinYIN1991.github.io/post/xie-zai-xian-jin-dai-xing-ye-dong-dang-zhong</id>
-        <link href="https://GavinYIN1991.github.io/post/xie-zai-xian-jin-dai-xing-ye-dong-dang-zhong">
+        <id>http://yinshihao.com/post/xie-zai-xian-jin-dai-xing-ye-dong-dang-zhong</id>
+        <link href="http://yinshihao.com/post/xie-zai-xian-jin-dai-xing-ye-dong-dang-zhong">
         </link>
         <updated>2017-11-29T15:09:22.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -10626,15 +10626,15 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 <p>大概是11月17日前后，就有同行陆续反馈公司收到芝麻信用关于终止服务的通知，因『<strong>自贵公司与芝麻信用合作以来，芝麻信用持续收到多起用户对贵公司存在收取法定保护利率以上各类费用、不当催收等方面的投诉</strong>。』</p>
 <p>后来通过多方打听，互相印证说是 <strong>此次终止服务是针对现金贷年化利率超过36%的商户</strong>。</p>
 <p>随后在11月21日，腾讯财经报道<a href="https://finance.qq.com/a/20171121/024171.htm">《【一线】芝麻信用停止与部分现金贷平台合作》</a>,正式确认这个说法。</p>
-<p><img src="https://GavinYIN1991.github.io/post-images/1560435428818.png" alt="" loading="lazy"><br>
+<p><img src="http://yinshihao.com//post-images/1560435428818.png" alt="" loading="lazy"><br>
 <em>以上新闻截图来自腾讯财经</em></p>
 <p>一时间，众多现金贷平台立即调整风控策略应对芝麻信用分的缺失造成的影响。许多人寝食难安。然而，一切都只是刚刚开始。</p>
 <p>11月23日晚，第一财经发文<a href="https://www.yicai.com/news/5376524.html">《蚂蚁金服排查支付宝合作商户 贷款综合年利率不得超过24%》</a> 更是火上浇油。</p>
-<p><img src="https://GavinYIN1991.github.io/post-images/1560435421182.png" alt="" loading="lazy"><br>
+<p><img src="http://yinshihao.com//post-images/1560435421182.png" alt="" loading="lazy"><br>
 <em>以上新闻截图来自第一财经</em></p>
 <h1 id="02-一纸令下-行业动荡">02 一纸令下 行业动荡</h1>
 <p>蚂蚁金服火急火燎地与现金贷平台切割，还是因为11月21日晚间，互联网金融风险专项工作领导小组办公室发布【2017】138号文《关于立即暂停批设网络小贷公司的通知》，且以“特急”文件下发到各省（自治区、直辖市）整治办。</p>
-<figure data-type="image" tabindex="1"><img src="https://GavinYIN1991.github.io/post-images/1560436839411.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://yinshihao.com//post-images/1560436839411.png" alt="" loading="lazy"></figure>
 <p>许多业内大佬分析，这份通知不同寻常，咋眼一看还以为是假文件，各方求证这份通知的真实性。关于通知的内在含义分析此处不做讨论。</p>
 <p>但很明确的一点是，<strong>监管来了。</strong></p>
 <p>受该利空消息影响，赴美上市的金融科技公司在股价『塌方式下跌』中度过了一个又一个不眠之夜。</p>
@@ -10676,7 +10676,7 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 <p>在现金贷年利率是否严格执行 36% 红线这个问题上：</p>
 <p>一方面是有人表态限制36%利率会导致整个行业无法经营。</p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=MzI4MjE1MjE2OA==&amp;mid=2649703726&amp;idx=3&amp;sn=9c7d9ca92a64b7dc2043b0220b0a3c74&amp;scene=21#wechat_redirect">中国人民大学杨东：现金贷利率限制36%会导致整个行业无法经营</a></p>
-<figure data-type="image" tabindex="2"><img src="https://GavinYIN1991.github.io/post-images/1560436858584.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://yinshihao.com//post-images/1560436858584.png" alt="" loading="lazy"></figure>
 <p>中国人民大学金融科技与互联网安全研究中心发布了《我国现金贷行业发展及监管建议报告》，其中提出，对于现金贷平台过高的年化利率应当采取正确认识。应当认识到现金贷利率的形成有其客观原因，以年化收益率36%作为红线，忽视了现金贷行业客户的信用成长周期，会导致整个行业无法经营。</p>
 <p>该报告建议，对微额短期产品，限定日利率，每日收费不超过1%，每日收费不得超过20元；微额分期产品，每日收费不超过0.3%，每日收费不得超过20元。对这两种产品，都应当进行债务封顶，总收费不超过借款本金的50%，保证债务总额不超过借款金额的1.5倍。</p>
 <p>一方面是有人表态36%红线是合理的。</p>
