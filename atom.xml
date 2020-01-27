@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GavinYIN1991.github.io</id>
     <title>灯火阑珊处</title>
-    <updated>2020-01-22T12:46:50.324Z</updated>
+    <updated>2020-01-27T03:27:16.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GavinYIN1991.github.io"/>
     <link rel="self" href="https://GavinYIN1991.github.io/atom.xml"/>
@@ -10,6 +10,135 @@
     <logo>https://GavinYIN1991.github.io/images/avatar.png</logo>
     <icon>https://GavinYIN1991.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 灯火阑珊处</rights>
+    <entry>
+        <title type="html"><![CDATA[Hertz 一生黑]]></title>
+        <id>https://GavinYIN1991.github.io/post/hertz</id>
+        <link href="https://GavinYIN1991.github.io/post/hertz">
+        </link>
+        <updated>2019-08-12T02:20:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>法国之行结束后，没想到收到了几张超速罚单，其中有两张在荷兰的巨额罚单，Hertz在并未告知本人的情况下直接从绑定信用卡扣除了该部分罚款。由此和Hertz展开了一场数轮来回的沟(si)通(bi)，但是最后以失败告终。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>法国之行结束后，没想到收到了几张超速罚单，其中有两张在荷兰的巨额罚单，Hertz在并未告知本人的情况下直接从绑定信用卡扣除了该部分罚款。由此和Hertz展开了一场数轮来回的沟(si)通(bi)，但是最后以失败告终。</p>
+<!-- more -->
+<h1 id="第一轮沟通">第一轮沟通</h1>
+<p>7月14日一早醒来，发现招行信用卡提醒有两笔消费，一看商户是Hertz，心想万幸不是盗刷。加上之前已经有被收取了六笔 $19.99 行政手续费的经验，所以就轻车熟路跟Hertz中国客服电话沟通，然后让我将相关凭证通过邮件方式通过给Hertz客服。</p>
+<figure data-type="image" tabindex="1"><img src="https://GavinYIN1991.github.io/post-images/1580092402226.jpg" alt="" loading="lazy"></figure>
+<p>过了两个工作日，Hertz客服回信：</p>
+<blockquote>
+<p>客户您好，<br>
+感谢来件.<br>
+目前我们查询到您的订单J0212355647  消费收据，见附件.请您对比入账单核实真实入账金额.<br>
+分别是366.55欧元 对应 431.99 美元 是租车费用<br>
+其他7笔19.99欧元是因为客户产生罚单，门店收取的行政手续费.该罚单会有交管部门直接邮寄到您的地址.<br>
+65.99欧元以及488.99欧元是罚单本身的金额与行政手续费的金额.<br>
+有关行政手续费的解释如下：<br>
+在租车合同中(或者网上预订时，Rental requirements and conditions 中)会写明如果客人在租车期间有交通违规（例如超速，违规停车等）或高速公路费未及时缴付，赫兹会被当地的交通部门要求提交相应租车人的联系方式以便对方可以联系到客人缴纳罚金，赫兹会从客人的信用卡中扣取相应的行政手续费。<br>
+根据每个国家地区交通部门不同，赫兹被通知到客人有交通违规的时长也会不同。通常租车公司会在90天内被通知到客人的交通违规，但依据不同的交管部门，被通知到的时间可能会更长，但通常不会超过18个月。<br>
+赫兹没有罚单副本，罚单会由当地行政部门直接寄到客人的邮寄地址，届时请查收并且缴付罚单。</p>
+</blockquote>
+<p>邮件附件里面附上了所有收费的INVOICE DUPLICATE。</p>
+<h1 id="第二轮沟通">第二轮沟通</h1>
+<figure data-type="image" tabindex="2"><img src="https://GavinYIN1991.github.io/post-images/1580093065677.png" alt="" loading="lazy"></figure>
+<p>根据Hertz提供的收据信息，我提出了两点疑惑：</p>
+<blockquote>
+<p>1.目前为止我暂未收到罚单，所以不清楚具体的违章信息，请问是否能够跟法国Hertz的同事沟通一下，获取罚单信息。既然你们能够扣款，说明你们是从法国当地的交通部门获取到了相关信息的。<br>
+2.按照之前你们的说法，是需要我本人去缴纳罚单，目前改为Hertz代缴罚单，请问是否符合相关程序以及服务协议的约定条款。</p>
+</blockquote>
+<p>很快，第二天就收到了客服的回信：</p>
+<blockquote>
+<p>针对您的疑惑，我们做出以下答复<br>
+附件1是法国租车条款，请参看第九页.<br>
+Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直接付款.如下为您标注.<br>
+有关Hertz无法代缴的罚单，Hertz会直接提供租车人的信息给交通管理部门，会由他们邮寄给您纸质的罚单.这个问题我们已跟法国当地确认过，Hertz 无法帮助到您，请您谅解.<br>
+附件2是为您代缴的两笔荷兰的超速罚单.请查阅.</p>
+</blockquote>
+<figure data-type="image" tabindex="3"><img src="https://GavinYIN1991.github.io/post-images/1580093342838.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://GavinYIN1991.github.io/post-images/1580093519830.png" alt="" loading="lazy"></figure>
+<h1 id="第三轮沟通">第三轮沟通</h1>
+<p>经过两轮沟通后，终于拿到了我想要的罚单信息，然后根据网上的攻略，通过荷兰官方电话与工作人员取得了联系，经过长达半个小时越洋电话的沟通，工作人员非常同情我的遭遇，但是因为罚款已经缴纳了，他也做不了什么。</p>
+<p>无奈之下，继续开启了与Hertz 的沟通。</p>
+<blockquote>
+<p>Hertz工作人员，你好！<br>
+感谢帮忙沟通，荷兰超速罚单已经收到。<br>
+但是根据 荷兰官方说明（https://www.cjib.nl/en/do-you-disagree-punitive-order），以及罚单文本描述，关于第一笔罚单 469 欧元的punitive order，我是可以申诉反对的，今天与荷兰Centraal Justitieel Incassobureau(+31) 58 234 20 47取得了联系<br>
+1.荷兰CJI未记录该笔罚单下任何关于我的信息，也就是说Hertz并未提供我的信息给荷兰CJI<br>
+2.Hertz在未告知我，未联系我的情况下，直接缴纳了罚款<br>
+3.荷兰CJI表示，目前该笔罚单已经关闭状态，无法接受申诉了，关于申诉的问题让我联系Hertz处理<br>
+所以关于这 469 欧的这笔罚单处理情况，我现在需要申诉，麻烦提供可行的解决方案，谢谢。</p>
+</blockquote>
+<p>客服很快回信：</p>
+<blockquote>
+<p>客户您好，感谢您的答复.<br>
+目前您想申诉此罚单，我这边可以联系法国相关部门为您核实相关问题.<br>
+请告知您申诉此罚单的理由或最好能提供一些相关凭证方便我给他们申诉.</p>
+</blockquote>
+<p>看这回信态度，好像事情有了转机，于是乎写了一篇声情并茂的悔过书：</p>
+<p>To whom it may concern,</p>
+<p>Greetings, my name is **********, a Chinese tourist who had a tour in Eindhoven on Jun 06, 2019. Recently I received a punitive order (CJIB number:xxxxxxxxxx) for speeding violation from the Centraal Justitieel Incassobureau, however I do disagree with this fine for several reasons, thus, I am writing this letter to apply for the official warning instead of penalty due.</p>
+<p>To begin with, this was my first time to drive across several countries in the Europe. On the other evening driving through Eindhoven to Paris, I did not notice the local speeding limit because it was late night. Plus I was not familiar with different traffic rules in different countries. When I realized my fault being overspeed,  I tried to control the speed, but it was too late to pass the speedometer point properly. I have to admit that I was not paying enough attention to the speedometer and felt so regretful to have this bad behavior.</p>
+<p>Secondly, as a good driver without bad records, I hope to have your kind consideration to give me an opportunity to file an objection. In China, I have clean driving records and have not had any traffic infringement for last seven years. And last year, I had 14-day road trip in the USA with no ticket at all. As you can see, I am as careful as always, definitely no intentional speeding.</p>
+<p>I, genuinely, do apologize for not being careful enough and made such a foolish behavior. It’s truly regretful for me not abiding by the speed limit at that time, but I do hope that you can kindly withdraw my infringement notice and give me an official warning instead. Your time and consideration of this is greatly appreciated. Enclosed is my detail information of infringement notice.</p>
+<p>My Information:<br>
+Full name: **********<br>
+DOB: **********<br>
+Address: ******<br>
+Drivers licence: **********<br>
+CJIB number:**********<br>
+Vehicle registration number:**********<br>
+Date of offense: 06-06-2019<br>
+Time of offense: 21:13<br>
+Permitted Speed:70km/h<br>
+Detected speed:106km/h</p>
+<p>过了两周，客服终于回信：</p>
+<blockquote>
+<p>客户您好，<br>
+法国同事回复，很抱歉无法帮助到您<br>
+This is his name and first name on the lease, the date and time of the infracton for speeding.<br>
+On our side, we can not do anything more.<br>
+该罚单是荷兰交管部门联系Hertz缴纳的，按照租车条款Hertz缴纳后会从客户授权信用卡中收取相对应的罚单费用以及行政手续费.</p>
+</blockquote>
+<h1 id="第四轮沟通">第四轮沟通</h1>
+<p>看到 Hertz 法国公司在踢皮球了，我参考网上攻略，直接用英文写了一封措辞强硬的邮件回复：</p>
+<p>Dear Hertz staff,</p>
+<p>Thank you for your reply ,but I cannot accept it.</p>
+<p>Despite it's my mistake to make this happened, however according to the statement on the website(https://www.cjib.nl/en/do-you-disagree-punitive-order), it's a punitive order (CJIB number:8132 5420 0362 0853) which <strong>I has the right to object</strong>.</p>
+<p>• If you have received correspondence with the letter code O, this is a punitive order. If you disagree with this fine, you can object to it. This is referred to as filing an objection.</p>
+<p><strong>However Hertz didn't contact me at all and payed the fine directly which deprived of my right to appeal</strong>.I know that you will tell me “according to the Rental Terms of Hertz , you can pay and recover from customer by the way of reimbursement” one more time.<strong>But Hertz has no right to represent me to give up the right to object the fine</strong>. If the CJIB refused my objection, I would be  willing to pay the fine myself, but I cannot do anything now because of your unreasonable procedure.</p>
+<p>So the following are my requirements:</p>
+<ol>
+<li>Give me the name of the staff who processed this unreasonable procedure, his/her employee ID as well.</li>
+<li>Show me the similar cases or procedure you once encountered as well as related solution - <strong>pay the punitive order directly without telling customer</strong> - you had before.</li>
+</ol>
+<p>Please give me a reasonable response as I request above, otherwise Hertz should refund me 488.99 EUR. IF not, I will contact my lawyer and request external interference from European Consumer Center.</p>
+<p>Please note, by that time my request is no more than just a refund, but the compensation for mental damage and the loss of working hours.</p>
+<p>然后客服模板式的邮件回复：</p>
+<blockquote>
+<p>客户您好，<br>
+感谢再次来件<br>
+关于您的反馈，很抱歉，只有荷兰交通部门取消或减免此罚单，Hertz才会操作退款.<br>
+目前我们不了解您罚单申诉关闭的原因，如果是Hertz的责任，烦请提供相关凭证，我这边会联系Hertz 法国继续申诉核实.</p>
+</blockquote>
+<h1 id="第五轮沟通">第五轮沟通</h1>
+<p>既然Hertz需要我举证，于是我再次拨通了 荷兰警方的越洋电话。这次是另外一个工作人员接听的电话，再次描述了事情的经过后，工作人员告诉我「<strong>罚单申诉关闭的原因是 Hertz已经缴纳了罚单，所以申诉被关闭了。我无法拿到纸面材料证明是因为该笔罚单在CJIB记录的信息与我无关，CJIB无法提供详细信息给我。</strong>」</p>
+<p>所以这就陷入僵局了，这个罚单是我的，但是缴纳人不是我，所以在荷兰CJIB跟我又无关！我现在向荷兰CJIB申诉无门，向Hertz举证无门。</p>
+<p>我将与荷兰CJIB的通话情况反馈给Hertz客服后，收到回信：</p>
+<blockquote>
+<p>客户您好，<br>
+很抱歉给您带来误解解，之前有解释过.<br>
+Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直接付款.如下为您标注.<br>
+根据租车条款如下说明Hertz有权在收到罚单时缴纳罚单，并从对应租车人授权信用卡中收取对应的费用<br>
+其他7笔19.99欧元是因为客户产生罚单，门店只收取的行政手续费.该对应的罚单会有交管部门直接邮寄到您的地址像这种无法缴纳的罚单Hertz会提供您的信息给交管部门，届时您收到纸质罚单时可以与交管部门申诉.<br>
+但是对于已缴纳的罚单，除非当地交管部门取消罚单，否则无法为您做退款处理.</p>
+</blockquote>
+<h1 id="总结">总结</h1>
+<ol>
+<li>Hertz 利用荷兰罚单的缴纳规则直接代缴，让我陷入僵局无法撤销罚单也无法追回罚款</li>
+<li>Hertz 给警方提供一下我的个人信息，就收了19.99刀的手续费，欧洲人工成本真贵</li>
+<li>在欧洲开车要谨慎谨慎再谨慎，这次花了几千块钱算是买个教训吧</li>
+<li>突然理解为啥欧美等国会出现缴纳不起罚单开庭审讯的情况了，确实是太贵了</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[六月法兰西见闻]]></title>
         <id>https://GavinYIN1991.github.io/post/ou-zhou-you-zhi-fa-guo</id>
