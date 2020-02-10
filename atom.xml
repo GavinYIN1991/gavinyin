@@ -2,11 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GavinYIN1991.github.io</id>
     <title>灯火阑珊处</title>
-    <updated>2020-02-04T09:35:56.502Z</updated>
+    <updated>2020-02-10T02:55:27.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GavinYIN1991.github.io"/>
     <link rel="self" href="https://GavinYIN1991.github.io/atom.xml"/>
-    <subtitle>须知风尘之中，多是性情中人</subtitle>
+    <subtitle>古今之成大事业、大学问者，必经过三种之境界：
+&lt;br&gt;  “昨夜西风凋碧树，独上高楼，望尽天涯路。” 此第一境也。
+&lt;br&gt; “ 衣带渐宽终不悔，为伊消得人憔悴。” 此第二境也。 
+&lt;br&gt; “ 众里寻他千百度，蓦然回首，那人却在，灯火阑珊处。”此第三境也。</subtitle>
     <logo>https://GavinYIN1991.github.io/images/avatar.png</logo>
     <icon>https://GavinYIN1991.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 灯火阑珊处</rights>
