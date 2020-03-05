@@ -706,6 +706,9 @@ ul li {
     width: 100%;
   }
 }
+.gt-post-content {
+  word-break: normal;
+}
 .archives-container {
   padding: 32px;
   display: flex;
