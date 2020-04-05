@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GavinYIN1991.github.io</id>
     <title>灯火阑珊处</title>
-    <updated>2020-03-26T11:08:38.764Z</updated>
+    <updated>2020-04-05T05:02:57.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GavinYIN1991.github.io"/>
     <link rel="self" href="https://GavinYIN1991.github.io/atom.xml"/>
@@ -13,6 +13,69 @@
     <logo>https://GavinYIN1991.github.io/images/avatar.png</logo>
     <icon>https://GavinYIN1991.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 灯火阑珊处</rights>
+    <entry>
+        <title type="html"><![CDATA[做出海产品的一些心得体会]]></title>
+        <id>https://GavinYIN1991.github.io/post/zuo-chu-hai-chan-pin-de-yi-xie-xin-de-ti-hui/</id>
+        <link href="https://GavinYIN1991.github.io/post/zuo-chu-hai-chan-pin-de-yi-xie-xin-de-ti-hui/">
+        </link>
+        <updated>2020-04-05T04:49:19.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在犬校ask频道有同学问到<br>
+「请问：做出海产品的同学们，在工作中，你们最大的成长点是什么？」<br>
+「我的疑虑</p>
+<ul>
+<li>系统的复杂度远远低于国内（可能倒退5年），在做搭系统架构上没什么学习空间</li>
+<li>由于语言、生活场景、文化习俗的差异，对市场的直接了解相对困难（竞品、用研 etc.）<br>
+请教出海的同学，是如何克服的呢？」</li>
+</ul>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>在犬校ask频道有同学问到<br>
+「请问：做出海产品的同学们，在工作中，你们最大的成长点是什么？」<br>
+「我的疑虑</p>
+<ul>
+<li>系统的复杂度远远低于国内（可能倒退5年），在做搭系统架构上没什么学习空间</li>
+<li>由于语言、生活场景、文化习俗的差异，对市场的直接了解相对困难（竞品、用研 etc.）<br>
+请教出海的同学，是如何克服的呢？」</li>
+</ul>
+</blockquote>
+<!-- more -->
+<p>我至今还没有去过东南亚，但是设计的产品已经服务了几十家客户，并稳定运营一年多了。</p>
+<p>经验就是从零到一，一点点积累和解决问题。基于当地互联网基础设施条件，因地制宜设计产品方案。比如没有成熟的OCR方案，就人工审核。没有成熟稳定的第三方支付平台，就人工放还款。</p>
+<p>完全照搬照抄国内成熟的方案死的不知道有多难看，<strong>接地气儿才是真理</strong>。</p>
+<h2 id="一-系统架构设计">一、系统架构设计</h2>
+<p>与国内成熟的业务相比，海外业务具有一定的不确定性或者不可行性，在这种背景下，系统架构上看起来很简单，但是也需要考虑到未来的延展性。</p>
+<p>做加法容易，做减法起码得对业务有着「深刻的理解和认知」。这需要多年从业经验的经验积累，以及对当前海外市场充分的熟悉理解才可以做出最合适的产品方案。</p>
+<p>拿我自己的业务举例，当时老板决定出海东南亚，买了一套印尼现金贷平台的代码，想着就在这个基础上随便改改就可以应用在越南市场了。但是实际上业务一上线，就发现越南和印尼是有很多显著差异的。</p>
+<p>当时我就决定重构整套系统，花了三个月时间顶着客户和领导的压力，重头思考每个业务环节的现状和问题，并且还要尽量兼容旧系统的数据。</p>
+<p>新系统上线后不到半年时间，我们就靠这套「一看就出自专业产品之手，甩友商几条街」的系统方案拿下了十几家客户。</p>
+<h2 id="二-如何进行竞品分析和市场调研">二、如何进行竞品分析和市场调研</h2>
+<p>我本人从业以来是做To B产品，所以这个问题相对来说比较简单，大概就是以下几种方法：</p>
+<ul>
+<li>冒充客户去买友商的产品，把自己的问题抛给友商，看看他们是怎么处理和解决的</li>
+<li>通过自己的客户了解友商的情况</li>
+<li>通过当地人了解，比如我们就招了一个越南实习生</li>
+<li>……</li>
+</ul>
+<p>想了解信息，办法总比困难多。就看你有没有想尽一切办法和去执行。</p>
+<h2 id="三-个人成长点">三、个人成长点</h2>
+<p>先说一下目前的情况，系统优化改造后我就退出了海外市场的项目，交给团队内的小朋友继续迭代更新了，个人精力目前仍集中在国内市场业务，毕竟部门kpi还是靠着国内市场的业务。</p>
+<ul>
+<li>好的产品设计方案，放之四海而皆准。可以看看Apple、Facebook、Google这类世界级的产品如何处理本地化细节问题的。</li>
+<li>尊重本土化习惯。每个国家都有一些看起来很奇葩的风俗习惯，做产品设计的时候最好找本地人验证一下方案，比如货币单位、时间日期、手机号格式、地区分类规范等。</li>
+<li>保持空杯心态，积极应对各种挑战和问题。</li>
+<li>目前海外市场看起来像十年前或者二十年前的中国，但你现在就是这个市场的头部玩家么？时机也许抓住了，但真的是「降维打击」吗。这是我一直思考的问题。</li>
+</ul>
+<h2 id="后记">后记</h2>
+<p>突然想起去年6月中旬老板私信给我分享了一篇<a href="https://mp.weixin.qq.com/s/Yg7uHs6vPkDmc3PM644Apg">《去东南亚制造下一个 BAT丨钛媒体深度》</a></p>
+<p>看完之后，给老板回复了一句话：</p>
+<blockquote>
+<p>我倒觉得正因为东南亚基建差，就应该先去做基建，比如说支付，这个门槛高，投入高，但是做成了就不得了，后面再做其他的就很方便了</p>
+</blockquote>
+<p>但是我知道，这对我们团队来说，目标太大，成本太高了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岂曰无衣，与子同袍]]></title>
         <id>https://GavinYIN1991.github.io/post/qi-yue-wu-yi-yu-zi-tong-pao/</id>
@@ -10763,36 +10826,6 @@ Hertz是否代缴罚单，取决于所属地交通管理部门是否要Hertz 直
 <p>一直以来，一路跌跌撞撞。</p>
 <p>大学的时候，梦想着有一天能够设计出一款引以为傲的产品出来，不辱没自己的专业。但是实际上与设计渐行渐远，随后走上了产品经理的道路，现在做的事情，似乎又与产品渐行渐远……</p>
 <p>希望自己「出走半生，归来仍是少年」</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于我]]></title>
-        <id>https://GavinYIN1991.github.io/post/guan-yu-wo/</id>
-        <link href="https://GavinYIN1991.github.io/post/guan-yu-wo/">
-        </link>
-        <updated>2019-05-16T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="主业">主业</h2>
-<ul>
-<li>从业六年产品狗，目前从事互联网金融信贷业务，做一些产品和风险运营相关的服务</li>
-<li>被产品耽误的xxx</li>
-<li>擅长业务分析、产品交互设计</li>
-<li>略懂前端技术，能够独立修改HTML、CSS，放弃学习JavaScript</li>
-<li>略懂数据分析、机器学习算法</li>
-<li>Python 入门到 还没放弃</li>
-<li>SQL 熟练使用 select * from 语法</li>
-</ul>
-<h2 id="副业">副业</h2>
-<p>信用卡白金卡收集癖好者</p>
-<h2 id="兴趣爱好">兴趣爱好</h2>
-<ul>
-<li>赚钱：没个千把万之前，我的首要爱好应该是这个</li>
-<li>电影：豆瓣已看1500+，目标30岁前看完 2000 部</li>
-<li>音乐：网易云 Lv.9 用户 ，现主力虾米 累计播放 11000+</li>
-<li>旅游：探索世界中</li>
-</ul>
-<figure data-type="image" tabindex="1"><img src="https://GavinYIN1991.github.io/post-images/1558071395699.jpg" alt="" loading="lazy"></figure>
-<h2 id="地点">地点</h2>
-<p>目前暂居上海</p>
 ]]></content>
     </entry>
 </feed>
