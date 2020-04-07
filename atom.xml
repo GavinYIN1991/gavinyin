@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GavinYIN1991.github.io</id>
     <title>灯火阑珊处</title>
-    <updated>2020-04-05T10:18:26.330Z</updated>
+    <updated>2020-04-07T02:50:09.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GavinYIN1991.github.io"/>
     <link rel="self" href="https://GavinYIN1991.github.io/atom.xml"/>
@@ -137,6 +137,7 @@
 <p>2020 年的现在，市面上还在坚持继续做信用租赁的头部玩家，基本上都垂直于3C数码产品，其中能带来业务规模效益的，其实还是手机租赁。采购供应链资源、残值处理回收资源，二者取其一，就能在这个市场上存活下来（注意措辞，只是存活下来）。</p>
 <p>这一年多的服务里面，我个人直观感受就是这个业务「<strong>又脏又累还特么不赚钱</strong>」（当然这是跟消费金融业务比起来，不是针对所有行业）。</p>
 <h1 id="三-如何看待微信支付分">三 如何看待「微信支付分」</h1>
+<figure data-type="image" tabindex="1"><img src="https://GavinYIN1991.github.io/post-images/1586227710059.png" alt="微信支付API" loading="lazy"></figure>
 <p>从事信贷行业的同学一看便知，「微信支付分」其实输出的是综合能力：</p>
 <ul>
 <li>风控能力：微信支付分</li>
@@ -145,6 +146,7 @@
 <li>信用闭环：黑名单机制</li>
 </ul>
 <p>这种集团军的作战能力和市场覆盖率，目前市面上除了芝麻信用以外，也就只有微信能一较高低了。</p>
+<figure data-type="image" tabindex="2"><img src="https://GavinYIN1991.github.io/post-images/1586227798241.png" alt="业务规则" loading="lazy"></figure>
 <p>为方便大家理解「微信支付分」的业务规则，我来解读一下：</p>
 <blockquote>
 <p>分数门槛设定：微信支付团队会根据商户接入的使用场景，客单价，免押金额，主要客户群体等因素，推荐一个合理的分数值。商户可以使用该分数，也可以根据自身实际情况，申请提高或降低使用分数门槛。</p>
