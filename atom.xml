@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GavinYIN1991.github.io</id>
     <title>灯火阑珊处</title>
-    <updated>2020-09-26T07:33:44.288Z</updated>
+    <updated>2020-09-26T07:58:57.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GavinYIN1991.github.io"/>
     <link rel="self" href="https://GavinYIN1991.github.io/atom.xml"/>
@@ -65,23 +65,15 @@
         <link href="https://GavinYIN1991.github.io/post/xin-dai-ye-wu-ying-wen-zhuan-ye-zhu-yu-yi-lan-biao/">
         </link>
         <updated>2020-08-10T07:44:35.000Z</updated>
-        <summary type="html"><![CDATA[<p>accelerated life model 加速生命模型<br>
+        <content type="html"><![CDATA[<h1 id="a">A</h1>
+<p>accelerated life model 加速生命模型<br>
 acceptance probability 接受概率<br>
 acceptance rate 接受率<br>
 acceptance scoring 接受评分<br>
 accuracy rate 准确率<br>
 additivity 可加性<br>
-adverse selection 逆向选择</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>accelerated life model 加速生命模型<br>
-acceptance probability 接受概率<br>
-acceptance rate 接受率<br>
-acceptance scoring 接受评分<br>
-accuracy rate 准确率<br>
-additivity 可加性<br>
-adverse selection 逆向选择</p>
-<!-- more -->
-<p>affordability 负担能力<br>
+adverse selection 逆向选择<br>
+affordability 负担能力<br>
 analytical solution 解析解<br>
 annual percentage rate 年化利率<br>
 annual percentage rates 年化百分比<br>
@@ -91,6 +83,7 @@ attribute 属性<br>
 attrition score 损耗分数<br>
 attrition scoring 损耗评分<br>
 augmentation 展开法</p>
+<h1 id="b">B</h1>
 <p>backward stepwise 向后分步<br>
 balance equation 余额方程<br>
 balloon payment 「气球」还款<br>
@@ -100,6 +93,7 @@ Bayesian Markov Chain Monte Carlo 贝叶斯MCMC模型<br>
 Bernoulli random variable  Bernoulli 随机变量<br>
 binomial test 二项校验<br>
 bootstrap 自展法</p>
+<h1 id="c">C</h1>
 <p>calibration accuracy 校准精度<br>
 central limit theorem 中心极限定理<br>
 chain rule 链式法则<br>
@@ -130,6 +124,63 @@ cumulative hazard function 累积风险函数<br>
 customer lifetime value 客户寿命价值<br>
 custmoised pricing 差异化定价<br>
 cut-off 临界分数、临界值、合格分数</p>
+<h1 id="d">D</h1>
+<p>data validation 数据校验<br>
+decision trees 决策树<br>
+default mode DM 违约模式<br>
+dependency 依赖性<br>
+development or training sample 开发样本、训练样本<br>
+discriminant analysis 判别分析<br>
+discriminatory ability,discriminant power 判别能力<br>
+distance to default,DD 违约距离<br>
+divergence 散度<br>
+dummy variable 二元虚拟变量</p>
+<h1 id="e">E</h1>
+<p>economic capital,EC 经济资本<br>
+effective interest rates 实际利率<br>
+elasticity 弹性<br>
+element 元素<br>
+endowment mortgage 储蓄按揭贷款<br>
+entropy 熵<br>
+ergodic theorem 遍历原理<br>
+expected default frequency 期望违约概率<br>
+expected monetary value 期望货币价值<br>
+exposure at default,EAD 违约暴露<br>
+extrapolation 外推法</p>
+<h1 id="f">F</h1>
+<p>financial ratio 财务比率<br>
+first order Markov chain 一阶 Markov 链<br>
+first passage model 第一路径模型<br>
+forecasting theory 预测理论<br>
+forward stepwise 向前分步<br>
+frailty model 脆弱模型<br>
+frailty term 脆弱项</p>
+<h1 id="g">G</h1>
+<p>generic score 通用分数<br>
+genetic algorithms 遗传算法<br>
+geometric Brownian random walk 几何布朗随机游走<br>
+Gini coefficient 基尼指数<br>
+group pricing 分组定价</p>
+<h1 id="h">H</h1>
+<p>hazard function 风险函数<br>
+hazard rate 风险率<br>
+hold-out or testing sample 保留样本、检验样本<br>
+Hosmer-Lemeshow test HL 检验、卡方拟合度校验</p>
+<h1 id="i">I</h1>
+<p>income stream 收入流<br>
+index 指数<br>
+influence diagram 影响图<br>
+information odds 信息比率<br>
+information value,IV 信息量<br>
+internal-rating based,IRB 内部评级<br>
+investment grade 投资级别</p>
+<h1 id="j">J</h1>
+<p>joint likelihood 联合似然值</p>
+<h1 id="l">L</h1>
+<p>life-one-out approach 留一法<br>
+lift curve 提升曲线<br>
+likelihood function 似然函数<br>
+likelihood ratio 似然比</p>
 ]]></content>
     </entry>
     <entry>
