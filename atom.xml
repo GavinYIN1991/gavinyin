@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GavinYIN1991.github.io</id>
     <title>灯火阑珊处</title>
-    <updated>2020-09-26T05:53:44.571Z</updated>
+    <updated>2020-09-26T06:13:30.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GavinYIN1991.github.io"/>
     <link rel="self" href="https://GavinYIN1991.github.io/atom.xml"/>
@@ -18,7 +18,7 @@
         <id>https://GavinYIN1991.github.io/post/xin-dai-ye-wu-ying-wen-zhuan-ye-zhu-yu-yi-lan-biao/</id>
         <link href="https://GavinYIN1991.github.io/post/xin-dai-ye-wu-ying-wen-zhuan-ye-zhu-yu-yi-lan-biao/">
         </link>
-        <updated>2020-09-10T07:44:35.000Z</updated>
+        <updated>2020-08-10T07:44:35.000Z</updated>
         <summary type="html"><![CDATA[<p>accelerated life model 加速生命模型<br>
 acceptance probability 接受概率<br>
 acceptance rate 接受率<br>
@@ -45,6 +45,45 @@ attribute 属性<br>
 attrition score 损耗分数<br>
 attrition scoring 损耗评分<br>
 augmentation 展开法</p>
+<p>backward stepwise 向后分步<br>
+balance equation 余额方程<br>
+balloon payment 「气球」还款<br>
+baseline hazard function 基准风险函数<br>
+Bayes' theorem Bayes 定理<br>
+Bayesian Markov Chain Monte Carlo 贝叶斯MCMC模型<br>
+Bernoulli random variable  Bernoulli 随机变量<br>
+binomial test 二项校验<br>
+bootstrap 自展法</p>
+<p>calibration accuracy 校准精度<br>
+central limit theorem 中心极限定理<br>
+chain rule 链式法则<br>
+channel pricing 渠道定价<br>
+characteristic 特征<br>
+Chi-square statistic 卡方统计量<br>
+Cholesk transformation Cholesk转换<br>
+classification tree 分类树<br>
+coarse classification 粗分类<br>
+collinearity 共线性<br>
+competing risks 风险竞争<br>
+concave function 凸函数<br>
+concentration risk 集中度风险<br>
+conditional VaR 条件在险价值<br>
+confidence level 置信水平<br>
+confusion matrix 混淆矩阵<br>
+conjugate prior distribution 共轭先验分布<br>
+contingency table 列联表<br>
+convex function 凹函数<br>
+counterparty credit risk 交易对手信用风险<br>
+coupon 票息<br>
+credit spread 信用价差<br>
+creditworthiness 信贷可靠性<br>
+cross-validation 交叉验证法<br>
+crude lifetime 天然时间<br>
+Cumulative Accuracy Profile,CAP累计准确性曲线<br>
+cumulative hazard function 累积风险函数<br>
+customer lifetime value 客户寿命价值<br>
+custmoised pricing 差异化定价<br>
+cut-off 临界分数、临界值、合格分数</p>
 ]]></content>
     </entry>
     <entry>
