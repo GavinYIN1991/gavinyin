@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GavinYIN1991.github.io</id>
     <title>灯火阑珊处</title>
-    <updated>2020-10-08T05:14:10.744Z</updated>
+    <updated>2020-10-08T05:40:58.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GavinYIN1991.github.io"/>
     <link rel="self" href="https://GavinYIN1991.github.io/atom.xml"/>
@@ -31,6 +31,30 @@
 <p>今年因为东航随心飞的缘故，周末经常出去玩。虽然已经去了好几个地方，但都是走马观花，到此一游的匆匆一瞥。</p>
 <p>国庆长假，本想到大西北来个深度游，但是奈何没人作陪。思前想后，最终选择了一个比较小众的地方，普者黑。</p>
 <!-- more -->
+<h1 id="仙人洞村">仙人洞村</h1>
+<figure data-type="image" tabindex="1"><img src="https://GavinYIN1991.github.io/post-images/1602135102442.JPG" alt="普者黑全览" loading="lazy"></figure>
+<h1 id="白脸山日落">白脸山日落</h1>
+<figure data-type="image" tabindex="2"><img src="https://GavinYIN1991.github.io/post-images/1602135179424.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://GavinYIN1991.github.io/post-images/1602135214952.JPG" alt="" loading="lazy"></figure>
+<h1 id="青龙山日出">青龙山日出</h1>
+<figure data-type="image" tabindex="4"><img src="https://GavinYIN1991.github.io/post-images/1602135248306.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://GavinYIN1991.github.io/post-images/1602135257555.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://GavinYIN1991.github.io/post-images/1602135265937.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://GavinYIN1991.github.io/post-images/1602135278934.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://GavinYIN1991.github.io/post-images/1602135295561.JPG" alt="" loading="lazy"></figure>
+<h1 id="羊洞塘">羊洞塘</h1>
+<figure data-type="image" tabindex="9"><img src="https://GavinYIN1991.github.io/post-images/1602135372315.JPG" alt="" loading="lazy"></figure>
+<h1 id="乐水洞日落">乐水洞日落</h1>
+<figure data-type="image" tabindex="10"><img src="https://GavinYIN1991.github.io/post-images/1602135409953.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="https://GavinYIN1991.github.io/post-images/1602135425381.JPG" alt="" loading="lazy"></figure>
+<h1 id="划船">划船</h1>
+<figure data-type="image" tabindex="12"><img src="https://GavinYIN1991.github.io/post-images/1602135448164.JPG" alt="" loading="lazy"></figure>
+<h1 id="青龙山码头">青龙山码头</h1>
+<figure data-type="image" tabindex="13"><img src="https://GavinYIN1991.github.io/post-images/1602135479920.JPG" alt="" loading="lazy"></figure>
+<h1 id="三生三世桃花开">三生三世桃花开</h1>
+<figure data-type="image" tabindex="14"><img src="https://GavinYIN1991.github.io/post-images/1602135540611.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="15"><img src="https://GavinYIN1991.github.io/post-images/1602135548958.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="16"><img src="https://GavinYIN1991.github.io/post-images/1602135559253.JPG" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -85,6 +109,25 @@
         <link href="https://GavinYIN1991.github.io/post/xin-dai-ye-wu-ying-wen-zhuan-ye-zhu-yu-yi-lan-biao/">
         </link>
         <updated>2020-06-10T07:44:35.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="a">A</h1>
+<p>accelerated life model 加速生命模型<br>
+acceptance probability 接受概率<br>
+acceptance rate 接受率<br>
+acceptance scoring 接受评分<br>
+accuracy rate 准确率<br>
+additivity 可加性<br>
+adverse selection 逆向选择<br>
+affordability 负担能力<br>
+analytical solution 解析解<br>
+annual percentage rate 年化利率<br>
+annual percentage rates 年化百分比<br>
+aperiodic Markov chain 不定周期的Markov链<br>
+Area under the ROC curve, AUROC ROC曲线下的面积<br>
+attribute 属性<br>
+attrition score 损耗分数<br>
+attrition scoring 损耗评分<br>
+augmentation 展开法</p>
+]]></summary>
         <content type="html"><![CDATA[<h1 id="a">A</h1>
 <p>accelerated life model 加速生命模型<br>
 acceptance probability 接受概率<br>
@@ -103,6 +146,7 @@ attribute 属性<br>
 attrition score 损耗分数<br>
 attrition scoring 损耗评分<br>
 augmentation 展开法</p>
+<!-- more -->
 <h1 id="b">B</h1>
 <p>backward stepwise 向后分步<br>
 balance equation 余额方程<br>
