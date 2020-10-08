@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GavinYIN1991.github.io</id>
     <title>灯火阑珊处</title>
-    <updated>2020-10-08T01:46:35.807Z</updated>
+    <updated>2020-10-08T03:49:00.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GavinYIN1991.github.io"/>
     <link rel="self" href="https://GavinYIN1991.github.io/atom.xml"/>
@@ -200,7 +200,29 @@ investment grade 投资级别</p>
 <p>life-one-out approach 留一法<br>
 lift curve 提升曲线<br>
 likelihood function 似然函数<br>
-likelihood ratio 似然比</p>
+likelihood ratio 似然比<br>
+linear log odds adverse selection function 线性对数逆向选择函数<br>
+linear probability adverse selection function 线性概率逆向选择函数<br>
+liquidity risk 流动性风险<br>
+log likelihood ratio 对数似然比<br>
+log odds score 对数比率分数<br>
+loss given default, LGD 违约损失率<br>
+low default portfolios, LDP 低违约组合</p>
+<h1 id="m">M</h1>
+<p>Mahalanobis distance 马氏距离<br>
+market discipline 市场自律<br>
+Markov decision process Markov 决策过程<br>
+maturity 期限<br>
+maximum likelihood estimation 最大似然估计<br>
+minimum capital requirement 最低资本要求<br>
+missing not at random 非随机缺失<br>
+monotonic odds 单调比率分数<br>
+monotonic score 单调分数<br>
+mortgage 住房抵押按揭贷款<br>
+mover-stayer model “动静”模型</p>
+<h1 id="n">N</h1>
+<p>naive Bayes’ rule 朴素Bayes法则<br>
+nearest neighbour model 最近邻模型</p>
 ]]></content>
     </entry>
     <entry>
